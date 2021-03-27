@@ -1,5 +1,11 @@
 # @dnd-kit/sortable
 
+## 2.0.1
+
+### Patch Changes
+
+- [`92afb0f`](https://github.com/clauderic/dnd-kit/commit/92afb0f6bcb9dd91f7e487ef44c43c8d28241f6f) [#168](https://github.com/clauderic/dnd-kit/pull/168) Thanks [@clauderic](https://github.com/clauderic)! - Make sure that the `wasSorting` argument of the `animateLayoutChanges` prop of `useSortable` always receives the latest value.
+
 ## 2.0.0
 
 ### Major Changes
